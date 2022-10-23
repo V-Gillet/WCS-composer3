@@ -1,0 +1,17 @@
+{
+    "name": "vgillet/composer3",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "V-Gillet",
+            "email": "gillet.valentin45000@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
